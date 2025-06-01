@@ -1,9 +1,8 @@
 # Drone Mission: Classify the world around you!
 
 ---
-Hi there! My name is Rebecca, and I’m a Computer Science student on winter break. I decided to use some of this time to experiment with Robotics 
-and Artificial Intelligence. I’m using a DJI Tello Drone and Google’s MediaPipe open source framework to develop a drone mission 
-control application. I enhanced the drone’s vision by adding object detection, utilized threading to process commands coming 
+Hi there! My name is Rebecca, and I’m a Computer Science student at Foothill College. I decided to experiment with Robotics 
+and Artificial Intelligence by working on this small project. I’m using a DJI Tello Drone and Google’s MediaPipe open source framework to develop a drone mission control application. I enhanced the drone’s vision by adding object detection, utilized threading to process commands coming 
 from my own computer, and learned how to create a video writer to save the mission recordings. 
 
 ## Application Design
